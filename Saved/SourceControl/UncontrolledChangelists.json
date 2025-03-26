@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Emancuso1/Workspace/AGA201C/CarRacing/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Emancuso1/Workspace/AGA201C/CarRacing/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"C:/Users/Emancuso1/Workspace/AGA201C/CarRacing/Content/VehicleTemplate/Blueprints/BP_BoostPad.uasset",
+				"C:/Users/Emancuso1/Workspace/AGA201C/CarRacing/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/3P/3N2FEV57HZVWTHQNAX71FF.uasset",
+				"C:/Users/Emancuso1/Workspace/AGA201C/CarRacing/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/KE/KMKAMAYG3F8MZZ0PBYFX1L.uasset",
+				"C:/Users/Emancuso1/Workspace/AGA201C/CarRacing/Content/VehicleTemplate/Blueprints/BP_Bullet.uasset",
+				"C:/Users/Emancuso1/Workspace/AGA201C/CarRacing/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"C:/Users/Emancuso1/Workspace/AGA201C/CarRacing/Content/VehicleTemplate/Blueprints/NewBlueprint.uasset"
+			]
+		}
+	]
+}
